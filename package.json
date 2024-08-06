@@ -10,7 +10,7 @@
         "@date-io/date-fns": "2.10.0",
         "@date-io/moment": "2.10.0",
         "sfdx-cli": "7.45",
-        "@salesforce/lwc-jest": "^0.4.14",
+        "@salesforce/lwc-jest": "^0.6.0",
         "selenium-webdriver": "^4.6.0"
     }
 }
