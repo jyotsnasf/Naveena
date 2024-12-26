@@ -7,8 +7,8 @@
     "dependencies": {
         "commander": "2.20.3",
         "lodash": "4.17.20",
-        "@date-io/date-fns": "2.10.0",
-        "@date-io/moment": "2.10.0",
+        "@date-io/date-fns": "3.2.0",
+        "@date-io/moment": "3.2.0",
         "sfdx-cli": "7.45",
         "@salesforce/lwc-jest": "^0.6.0",
         "selenium-webdriver": "^4.6.0"
